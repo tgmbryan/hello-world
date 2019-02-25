@@ -1,0 +1,22 @@
+h1{
+    background-color: red;
+    font-style: oblique;
+    color: #0066ff;
+}
+head2{
+    background-color: blue;
+}
+p{
+    background-color: green;
+}
+ul{
+    background-color: #0066ff;
+    font-style: italic;
+    font-size: larger;
+}
+nav:hover{
+    text-transform: uppercase;
+    font-family: serif;
+    font-weight: bold;
+    font-size: large;
+}
